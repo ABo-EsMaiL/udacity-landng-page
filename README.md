@@ -4,7 +4,7 @@ It is the first project that I have completed and I hope that I have implemented
 
 I created a function to create a link for each section by using for of loop.
 
-add the active class properties for both section.
+add the active class properties for both section while scrolling.
 
 # reference
 
