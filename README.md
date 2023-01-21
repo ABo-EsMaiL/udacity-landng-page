@@ -8,5 +8,6 @@ add the active class properties for both section.
 
 # reference
 
-- For...of - JavaScript | MDN => http://bit.ly/3ZT8jRd
--Element.getBoundingClientRect() - Web APIs | MDN =>http://bit.ly/3wDjzUN
+- For...of - JavaScript | MDN => http://bit.ly/3ZT8jRd 
+
+- Element.getBoundingClientRect() - Web APIs | MDN =>http://bit.ly/3wDjzUN
