@@ -40,10 +40,10 @@ const navbar = document.getElementById("navbar__list");
 // build the nav
 function createList() {
   for (section of sections) {
-    sectionName = section.getAttribute("data-nav");
-    sectionLink = section.getAttribute("id");
+    let sectionName = section.getAttribute("data-nav");
+    let sectionLink = section.getAttribute("id");
     // create item for each one
-    listCreate = document.createElement("li");
+    let listCreate = document.createElement("li");
     // add the item text
     listCreate.innerHTML = `<a href="#${sectionLink}" data-nav="${sectionLink}" class="menu__link">${sectionName}</a>`;
     // add listCreate to menu
